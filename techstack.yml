@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/go-lang-project-layout
 report_id: 35666e389ad65fa7a3d8acb617be38aa
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:18:56+00:00'
+timestamp: '2024-01-05T08:24:58+00:00'
 requested_by: kcq
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/go-lang-project-layout
   detection_source: Repo Metadata
